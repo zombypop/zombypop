@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zombypop
+- 👀 I’m interested in C#, Angular, and React.
+- 🌱 I’m currently learning Angular and React
+- 💞️ I’m looking to collaborate on any interesting proyect where I can learn.
+- 📫 How to reach me gutierrez.fco@gmail.com
